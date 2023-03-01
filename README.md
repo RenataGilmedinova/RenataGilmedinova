@@ -10,6 +10,18 @@
 В моем лице вы получите грамотного и замотивированного специалиста, который уделяет внимание деталям, доделывает начатое до конца и не срывает дедлайны.
 Легко и быстро нахожу общий язык в команде 😊
 
+# Cтек:
+<div id="badges">
+    <img src="https://img.shields.io/badge/Python-darkblue?logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-darkblue?logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Numpy-darkblue?logo=Numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-darkblue?logo=Pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-darkblue?logo=MySQL&logoColor=white"/>
+    
+</div>
+
+
+# Контакты:
 <div id="badges">
   <a href="https://t.me/Renata1308">
     <img src="https://img.shields.io/badge/telegram-darkblue?logo=telegram&logoColor=white" alt="telegam Badge"/>
