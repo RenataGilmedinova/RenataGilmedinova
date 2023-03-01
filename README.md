@@ -13,12 +13,29 @@
 # Cтек:
 <div id="badges">
     <img src="https://img.shields.io/badge/Python-darkblue?logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-darkblue?logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Numpy-darkblue?logo=Numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-darkblue?logo=Pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit%20learn-darkblue?logo=SCIKIT-LEARN&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Seaborn-green?logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Plotly-green?logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-green?logo=Python&logoColor=white"/>
+</div>
+
+<div id="badges">
     <img src="https://img.shields.io/badge/SQL-darkblue?logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Airflow-darkblue?logo=Apache%20Airflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerBI-darkblue?logo=PowerBI&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Superset-darkblue?logo=PowerBI&logoColor=white"/>
     
 </div>
+
+
+<div id="badges">
+    <img src="https://img.shields.io/badge/AB tests-darkblue?logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Statistics-darkblue?logo=MySQL&logoColor=white"/>
+</div>
+
+
 
 
 # Контакты:
