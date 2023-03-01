@@ -10,7 +10,7 @@
   <a href="https://t.me/Renata1308">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegam Badge"/>
   </a>
-  <a href="ya.renattta@ya.ru">
+  <a href="https://ya.renattta@ya.ru">
     <img src="https://img.shields.io/badge/Mail-blue?logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
